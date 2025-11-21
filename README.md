@@ -1515,6 +1515,6 @@ Built with ❤️ using Python, Pandas, Plotly, and Streamlit
 
 **⭐ Star this repo if you find it helpful!**
 
-*Last Updated: November 2024*
+*Last Updated: November 2025*
 
 </div>
