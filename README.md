@@ -9,7 +9,7 @@
 > Transforming 1,556 days of Bitcoin price data into actionable investment insights through advanced time-series visualization and multi-scale trend analysis
 
 🚀 [View Live Dashboard](https://bitcoin-price-analytics-dashboard.streamlit.app/) 
-
+[Demo](bitcoin_dashboard_demo.webm)
 ---
 
 ## Table of Contents
